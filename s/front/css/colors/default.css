@@ -1,0 +1,60 @@
+/*  Theme Name: Yearia | Responsive Bootstrap Landing Template
+    Author: Themesdesign
+    Version: 1.0.0
+    File Description: Main CSS file of the template
+*/
+
+.text-custom,.nav-sticky.navbar-custom .navbar-nav li.active a,
+.nav-sticky.navbar-custom .navbar-nav li a:hover,
+.nav-sticky.navbar-custom .navbar-nav li a:active,.features-read-more:hover,.month-lebal-4 p,#success_page h3,
+.team-social-4 i:hover,.blog-title a:hover,.footer-link a:hover{
+    color: #53a6fa !important;
+}
+
+.bg-custom,.btn-custom,.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active,
+.btn-custom.focus,
+.btn-custom:active,
+.btn-custom:focus,
+.btn-custom:hover,
+.open > .dropdown-toggle.btn-custom,.title-border,.title-border:before,
+.title-border:after,.play-icon-circle,.about-icon,.icon-read:hover,.features-2-icon,.features-icon-4 i,.features-box-6 i,
+.owl-theme .owl-controls .owl-page span,#owl-demo.owl-theme .owl-controls .owl-buttons div,#owl-demo-1.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span,#owl-demo-2 .owl-controls .owl-page span,
+.client-icon-6 i,.pricing-lable p,.lable-name-3,.team-social i:hover,.team-icon-2 a:hover,.faq-count-6 p,.subscribe-social .social-icon:hover,.blog-icon-2 i,.blog-lable-3 h5 {
+    background-color: #53a6fa !important;
+}
+
+.btn-custom,.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active,
+.btn-custom.focus,
+.btn-custom:active,
+.btn-custom:focus,
+.btn-custom:hover,
+.open > .dropdown-toggle.btn-custom,.icon-read:hover,.features-border-3,.features-box-6 i,
+#owl-demo-1.owl-theme .owl-controls .owl-page span,#owl-demo-2 .owl-controls .owl-page span,.pricing-active,
+.lable-name-3:after,.pricing-title-active-4,.form-control:focus,.team-social i:hover,.team-icon-2 a:hover,.blog-border-2,.team-img-5 img,.subscribe-social .social-icon:hover{
+    border-color:#53a6fa;
+}
+
+@media (min-width: 200px) and (max-width: 768px) {
+.navbar-custom .navbar-nav li.active a,
+.navbar-custom .navbar-nav li a:hover,
+.navbar-custom .navbar-nav li a:active   {
+    color: #53a6fa !important;
+    }
+}
+
+
+.services-icon{
+    background-color: rgba(140, 78, 255, 0.12);
+    }
+
+
+.subcribe-home-3 input{
+    background-color: rgba(140, 78, 255, 0.5);
+}
